@@ -22,7 +22,7 @@ if UserName == "Kranm9866" then
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "Wellank2852" then
   script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Wellank2852" -- Main Account/ Account To Send Gem
+    getgenv().SelectedPlayer = "Kranm9866" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -40,7 +40,7 @@ elseif UserName == "Wellank2852" then
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "Xanfe1391" then
   script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Xanfe1391" -- Main Account/ Account To Send Gem
+    getgenv().SelectedPlayer = "Kranm9866" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -58,7 +58,7 @@ elseif UserName == "Xanfe1391" then
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "Bonhk0848" then
   script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Bonhk0848" -- Main Account/ Account To Send Gem
+    getgenv().SelectedPlayer = "Kranm9866" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
@@ -76,7 +76,7 @@ elseif UserName == "Bonhk0848" then
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "Crutks7127" then
   script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
-    getgenv().SelectedPlayer = "Crutks7127" -- Main Account/ Account To Send Gem
+    getgenv().SelectedPlayer = "Kranm9866" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
     getgenv().EnableAccountForMainFolow = false --If you want your main to join a low server player with an account already in server low player
